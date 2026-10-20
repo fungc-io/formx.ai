@@ -1,7 +1,7 @@
 ---
 title: "The 5 Biggest Challenges in Automating Mall Rewards in Hong Kong (And How FormX.ai Solves Them)"
-description: "Hong Kong malls reward shoppers on receipts: show them, get free parking and points. At 80,000 receipts a Saturday, that gets hard. Here are the 5 challenges we see, and how FormX.ai handles each."
-excerpt: "Hong Kong malls reward shoppers on receipts: show them, get free parking and points. At 80,000 receipts a Saturday, that gets hard. Here are the 5 challenges we see, and how FormX.ai handles each."
+description: "In Hong Kong, shopping malls reward shoppers on receipts: show them, get free parking and points. At 80,000 receipts a Saturday, that gets hard. Here are the 5 challenges we see, and how FormX.ai handles each."
+excerpt: "In Hong Kong, shopping malls reward shoppers on receipts: show them, get free parking and points. At 80,000 receipts a Saturday, that gets hard. Here are the 5 challenges we see, and how FormX.ai handles each."
 category: guide
 author: FormX
 date: 2026-10-20
