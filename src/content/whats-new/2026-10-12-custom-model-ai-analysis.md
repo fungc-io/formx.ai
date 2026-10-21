@@ -1,6 +1,6 @@
 ---
 title: "FormX Update: AI Analysis Comes to Custom Models"
-description: "Custom models can now answer questions a document doesn't state directly, like classifying a contract or flagging an invoice for review, alongside extraction and code mapping. Also: Accuracy Center in Traditional Chinese and on-page field locations for production samples."
+description: "Custom models can now answer questions a document doesn't state directly, like classifying a contract or flagging an invoice for review, alongside extraction and code mapping. Also: Accuracy Center in Traditional Chinese and bounding box review on production samples."
 date: 2026-10-12
 tag: NEW FEATURES
 featured_image: "/images/whats-new/2026-10-12-custom-model-ai-analysis.webp"
@@ -26,6 +26,6 @@ We've also tidied up the field editor. Document extraction and code mapping use 
 Two Accuracy Center updates make it quicker to check how a model performs on real documents:
 
 * **Traditional Chinese.** Switch language from the menu. When you open Accuracy Center from the FormX Portal, it follows your Portal language without a full reload.
-* **On-page field locations.** On production samples, run Detect to see where each value was found on the document, then click a field to jump straight to it.
+* **Bounding boxes on production samples.** On production samples, run Detect to see each extracted field highlighted on the document, then click a field to jump straight to it.
 
 Want help setting up AI Analysis on your documents? Reach out through the [FormX portal](<https://auth.formextractorai.com/login>) or contact your account manager.
